@@ -28,8 +28,6 @@ All datasets are stored at: /data/scratch/hmo
 
 The folder names correspond directly to the dataset names listed above.
 
-Read permission has already been granted to `/data/scratch/hmo`, so group members should be able to access and copy the data.
-
 ---
 
 # ERGO (Rotterdam Study)
@@ -317,12 +315,6 @@ For questions regarding:
 - Study context
 
 Please contact the project collaborators or PI.
-
----
-
-# Summary
-
-Pipeline overview: Raw Data → Preprocessing → Segmentation → Feature Extraction → Modeling → Evaluation
 
 
 
